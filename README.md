@@ -6,5 +6,5 @@ git init
 git add .
 git commit -m "feat: 言简 YanJian v1.3.0 — 表达画像面板（历史时间轴/可拖拽分栏/可收起饼图）"
 git branch -M main
-git remote add origin https://github.com/<你的用户名>/yanjian.git
+git remote add origin https://github.com/one5684/yanjian.git
 git push -u origin main
